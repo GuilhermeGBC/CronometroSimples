@@ -49,7 +49,6 @@ namespace Stopwatch
 
         static void Start(int time)
         {
-
             int currentTime = 0;
 
             while (currentTime != time)
